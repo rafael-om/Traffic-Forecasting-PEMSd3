@@ -16,6 +16,7 @@ The data obtained from the PEMSd3 dataset are as follows:
 
 The "data" directory contains the following subdirectories:
 - Interpolation: Contains boolean matrices used in the interpolation test to remove data from the temporal series. The files were named following the pattern matrix_{X}.npz, where X is the percentage of removed data.
-- Noise: Contains noise matrices used in the noise test. The files were numbered from 1 to 6, corresponding to the numbering used in the graphs generated in the "Tests Report.pdf" file.
 - Transition Matrix: Contains transition matrices used in the spatial sensitivity test, the files were named following the type of graph stored.
+
+Besides this data, the noise matrices can be downloaded at https://drive.google.com/drive/folders/1A0cGde51yeBxn5LOKK9UMmGGdKC6bfV2?usp=drive_link, the matrices have been numbered in the same way as described in the file "Tests Report.pdf".
 
